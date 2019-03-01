@@ -1,11 +1,11 @@
 # STRLab1
 
-Reversing
-Binary Search Tree
-Heaps of Knowledge
+1)Reversing ->
+(a) Binary Search Tree
+(b) Heaps of Knowledge
 
-Testing
-NumberInformation maven project -- self
-Java Program for Arithmatic Functions
-Sudoku Testing App 
+2)Testing
+a) NumberInformation maven project -- self
+b) Java Program for Arithmatic Functions
+c) Sudoku Testing App 
 
